@@ -27,6 +27,7 @@ npm run build --report
 
 # Rodar testes unitários
 npm run unit
+```
 
 ## Construído com
 
