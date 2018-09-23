@@ -16,7 +16,7 @@ Telas estáticas com dados simulados por arrays no javascript. As telas foram co
 # Instale as dependências
 npm install
 
-# Servidor com hot reload em localhost:3000
+# Servidor com hot reload
 npm run dev
 
 # Build para produção com arquivos minificados
