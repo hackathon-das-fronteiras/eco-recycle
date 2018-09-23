@@ -1,21 +1,37 @@
-# reciclagem
+# Eco-Recycler Amazonic 
 
-> A Vue.js project
+Projeto criado no hackathon da fronteira que busca melhorar a comunicação entre empresas recicladoras e catadores de lixo
 
-## Build Setup
+## Você irá encontrar
+
+Telas estáticas com dados simulados por arrays no javascript. As telas foram confeccionadas para prototipagem. 
+
+# Como instalar em sua máquina
+
+> Eco-Recycler feito com VueJS 2
+
+## Abra o terminal e digite os comandos a seguir
 
 ``` bash
-# install dependencies
+# Instale as dependências
 npm install
 
-# serve with hot reload at localhost:8080
+# Servidor com hot reload em localhost:3000
 npm run dev
 
-# build for production with minification
+# Build para produção com arquivos minificados
 npm run build
 
-# build for production and view the bundle analyzer report
+# Build para produção com relatórios
 npm run build --report
-```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+# Rodar testes unitários
+npm run unit
+
+## Construído com
+
+* <a href="https://br.vuejs.org/v2/guide" target="_blank">VueJS 2</a> - Framework progressivo para a construção de interfaces de usuário
+
+## Autor
+
+* **Fábio Onofre** - *Desenvolvedor Fullstack* - [Fabionofre](https://github.com/fabionofre)
